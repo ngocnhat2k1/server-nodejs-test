@@ -1,10 +1,8 @@
 {
   "name": "",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
-    "server": "nodemon server.js",
-  },
+    "server": "nodemon server.js",},
   "dependencies": {
     "axios": "^1.4.0",
     "concurrently": "^8.2.0",
@@ -13,6 +11,4 @@
     "nodemon": "^3.0.1",
     "path": "^0.12.7",
   },
-  "devDependencies": {
-  }
 }
